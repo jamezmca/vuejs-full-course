@@ -2,7 +2,7 @@
 
 Master Vue.js by building a **complete modern fitness tracking app** from scratch 🔥 Learn how to structure Vue projects, use the Composition API, manage state, and style your app with CSS and FantaCSS — all while creating something real and useful. Then, deploy it to the web with Netlify.
 
-LINK HERE
+[**Start the course free on YouTube ✅**](https://youtu.be/JAgeFLJYrUY)
 
 ---
 
